@@ -1,0 +1,12 @@
+diffusers==0.27.2
+transformers==4.36.2
+opencv-python
+safetensors
+pillow==10.2.0
+einops
+torch
+peft
+gradio==3.41.2
+protobuf==3.20
+imageio
+imageio-ffmpeg
