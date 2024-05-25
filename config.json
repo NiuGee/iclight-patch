@@ -1,4 +1,4 @@
 {
-    "share": false,
+    "share": true,
     "port": 8866
 }

@@ -9,8 +9,8 @@ import torch
 def print_panda():
     panda = """
       ／＞　 フ
-      | 　_　_|   _< 支持牛哥，给牛哥充个电 https://niugee.com/make_a_love/  
-    ／` ミ＿xノ  
+      | 　_　_|   _<  看到我代表基本环境没问题了，如果有问题浏览器手动访问 http://127.0.0.1:8866
+    ／` ミ＿xノ      \ 支持牛哥，给牛哥充个电 https://niugee.com/make_a_love/  
    /　　　　 |
   /　 ヽ　　 ﾉ
  │　　|　|　|
@@ -85,7 +85,7 @@ def show_niugee_tip():
         print("-------")
 
         # 打开一个网址：https://niugee.com
-        webbrowser.open('https://niugee.com?source=iclight1.0')
+        # webbrowser.open('https://niugee.com?source=iclight1.0')
     except Exception as e:
         print("显示提示失败:", e)
     

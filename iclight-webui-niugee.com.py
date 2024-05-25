@@ -482,6 +482,8 @@ port = cfg.get("port", 8866)
 
 print_panda()
 
+print("version : 1.1 2024-05-24")
+
 # 显示一个提示
 show_niugee_tip()
 
